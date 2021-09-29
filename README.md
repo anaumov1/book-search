@@ -1,4 +1,4 @@
-# Book Search Engine [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Book Search [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -10,13 +10,11 @@ The application is a tool used to search for books using Google's book search AP
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 - [Screenshot-Link](#screenshot-link)
 
 ## Installation
 
-After cloning the code to your machine, you will need to install all the necessary dependencies in the client and server folder as well as the root of the directory. The application is deployed and can be seen by clicking the link below.
+No installation needed, please follow the link bellow to the deployed app.
 
 ## Usage
 
