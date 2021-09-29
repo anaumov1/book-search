@@ -40,4 +40,4 @@ Email Address: alexandru.naumov@gmail.com
 ## Screenshot-Link
 
 
-![Screenshot]
+![Screenshot](assets/screenshot.PNG)
